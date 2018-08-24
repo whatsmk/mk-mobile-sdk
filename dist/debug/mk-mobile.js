@@ -31,7 +31,8 @@ require.config({
         "moment": __require_base_url__ + 'moment-with-locales',
         'lodash': __require_base_url__ + 'lodash',
         'immutable': __require_base_url__ + 'immutable',
-        'MK': __require_base_url__ + 'mk-mobile-core'
+        'echarts': __require_base_url__ + 'echarts',
+        'MK': __require_base_url__ + 'mk-mobile-core',
     },
     shim: {
         MK: {
